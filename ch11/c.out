@@ -1,0 +1,5 @@
+mode: set
+palindrome/word1.go:3.34,4.19 1 1
+palindrome/word1.go:4.19,5.28 1 1
+palindrome/word1.go:5.28,7.4 1 1
+palindrome/word1.go:9.2,9.13 1 1
